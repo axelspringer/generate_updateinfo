@@ -72,7 +72,7 @@ if len(options.type) == 0:
     options.type = ['security']
 
 if len(options.release) == 0:
-    options.release = ['5', '6', '7']
+    options.release = ['5', '6', '7', '8']
 
 # other is mandatory
 options.release.append("other")
